@@ -1,0 +1,1 @@
+<?= $myVar ?><?= (isset($no_show_var) ? $no_show_var : '') ?>-<?= $custom_var ?>

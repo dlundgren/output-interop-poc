@@ -1,0 +1,1 @@
+<?= $this->myVar ?><?= $this->no_show_var ?>-<?= $this->custom_var ?>

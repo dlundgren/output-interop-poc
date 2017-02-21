@@ -1,0 +1,1 @@
+{$myVar}{if isset($no_show_var)}{$no_show_var}{/if}-{$custom_var}
