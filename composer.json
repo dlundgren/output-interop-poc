@@ -9,12 +9,6 @@
       "email": "dlundgren@syberisle.net"
     }
   ],
-  "repositories" : [
-    {
-      "type" : "vcs",
-      "url" : "https://github.com/output-interop/output-interop"
-    }
-  ],
   "autoload" : {
     "psr-4" : {
       "dlundgren\\OutputInteropPoc\\" : "src"
