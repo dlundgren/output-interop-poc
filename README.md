@@ -20,4 +20,4 @@ The Output-Interop idea was based on Foil, but it looks like Twig also
 has the concept of Contexts.
 
 While there are currently no unit tests for the overall system. There
-are integration tests.
+are integration tests for the above renderers.
