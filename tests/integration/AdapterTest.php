@@ -95,7 +95,7 @@ class AdapterTest
 		$r->register(
 			'blade',
 			function () use (&$fs, &$f, &$files) {
-				return new CompilerEngine(new BladeCompiler($fs, "{$files}/cache"), $f);
+				return new CompilerEngine(new BladeCompiler($fs, "{$files}/cache"));
 			});
 
 		return new Factory($r, $f, new Dispatcher());
